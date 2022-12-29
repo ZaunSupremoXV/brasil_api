@@ -93,13 +93,13 @@ print(ncm);
 
 ## Copyright & License
 
-This open source project authorized by https://github.com/ZaunSupremoXV/dio/brasil_api/LICENSE , and the license is MIT.
+This open source project authorized by https://github.com/ZaunSupremoXV/brasil_api/blob/main/LICENSE , and the license is MIT.
 
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/ZaunSupremoXV/dio/brasil_api
+[tracker]: https://github.com/ZaunSupremoXV/brasil_api/issues
 
 ## 🤝 Colaborador
 
