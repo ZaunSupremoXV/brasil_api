@@ -1,4 +1,4 @@
-# brasil_pai
+# brasil_api
 
 Package that consumes data from the Brasil API.
 
